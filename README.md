@@ -8,4 +8,4 @@ This project analyzes the data collected for all bycicle collision accidents tha
 This will result in a safer city for all commuters who are motorists and cyclists.  This will also increase the likelyhood of Boston becoming a greener city with less carbon emissions due to more frequent cyclists taking these streets. 
 
 **Boston Bike Network Dictionary**
-![alt text]
+![alt text](https://github.com/saramberr12/Boston-Cycle-Track-Safety/blob/master/Existing%20Bike%20Network%20Data%20Dictionary.pdf)
