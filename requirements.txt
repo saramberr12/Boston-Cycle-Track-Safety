@@ -3,6 +3,5 @@ matplotlib==3.*
 matplotlib.pyplt==3.*
 seaborn==0.8.1
 IPython==7.*
-numpy==1.*
 pd==0.23.*
 re==2.*
