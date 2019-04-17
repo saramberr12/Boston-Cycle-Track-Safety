@@ -2,5 +2,5 @@ numpy==1.16.*
 matplotlib==3.*
 seaborn==0.8.1
 IPython==7.*
-pd==0.23.*
+pd==0.*
 re==2.*
