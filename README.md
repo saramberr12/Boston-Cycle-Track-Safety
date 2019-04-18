@@ -1,7 +1,5 @@
 # Do Protected Bike Lanes Reduce Accidents Involving Cyclists?
 
-MyBinder URL: https://mybinder.org/v2/gh/saramberr12/Boston-Cycle-Track-Safety/master
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saramberr12/Boston-Cycle-Track-Safety/master)
 
 This project analyzes the data collected for all bycicle collision accidents that take place in the city of Boston, Massachusetts.  This will be compared to the streets most frequently taken by cyclists, and whether or not there are already protected bike lanes on those streets.  If there is not a protected bike lane on a frequently taken street and there is also a higher amount of bicycle accidents that take place, adding a protected bike lane will help lower the number of accidents involving a cyclist that happen.  
